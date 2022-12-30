@@ -1,6 +1,6 @@
-# ReactExample
+# ReactTemplate
 
-A minimal react+express+typescript+webpack+docker example
+A minimal react + nodejs + express + typescript + webpack + docker example
 
 ## Getting Started
 
