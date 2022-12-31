@@ -7,7 +7,7 @@ A minimal react + nodejs + express + typescript + webpack + docker example
 ```
 npm install
 
-npm run dev
+npx tsc
 
-node build/service.js
+npm run dev
 ```
